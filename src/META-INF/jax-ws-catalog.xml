@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://api.openweathermap.org/data/2.5/weather?q=Kathmandu,uk&amp;appid=7d8d45d1ead4eab5707c4e643ec52420" uri="xml-resources/web-service-references/weather_q_Kathmandu_uk_appid_7d8d45d1ead4eab5707c4e643ec52420_2/wsdl/api.openweathermap.org/data/2.5/weather.q_kathmandu_uk_appid_7d8d45d1ead4eab5707c4e643ec52420"/>
+    <system systemId="http://www.webservicex.net/currencyconvertor.asmx?wsdl" uri="xml-resources/web-service-references/currencyconvertor/wsdl/www.webservicex.net/currencyconvertor.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.com/globalweather.asmx?wsdl" uri="wsdl/www.webservicex.com/globalweather.asmx.wsdl"/>
+</catalog>
